@@ -1,0 +1,11 @@
+"""
+Interview Tips:
+- Be confident
+- Practice coding
+- Prepare HR questions
+
+Resume Tips:
+- Keep it short
+- Highlight skills
+- Add projects
+"""
