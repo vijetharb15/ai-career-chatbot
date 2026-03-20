@@ -1,8 +1,7 @@
-"""
+
 streamlit
 openai
 langchain
 faiss-cpu
 requests
 python-dotenv
-"""
